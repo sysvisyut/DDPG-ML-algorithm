@@ -1,1 +1,1 @@
-# DDPG-ML-algorithm
+# GDPSO-ML-algorithm
